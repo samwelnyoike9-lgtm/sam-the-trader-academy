@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sam The Trader 001 Academy</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Sam The Trader 001 Academy</h1>
+        <p>Learn Forex Trading & Binary Trading Professionally</p>
+    </header>
+
+    <section>
+        <h2>About Us</h2>
+        <p>We offer professional Forex and Binary Trading training, mentorship, and trading strategies.</p>
+    </section>
+
+    <section>
+        <h2>Register for Classes</h2>
+        <input type="text" id="name" placeholder="Enter Your Name">
+        <button onclick="register()">Register Now</button>
+    </section>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
